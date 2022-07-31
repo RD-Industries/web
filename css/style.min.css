@@ -396,7 +396,7 @@ section {
 =            FEATURES            =
 ================================*/
 .feature-item {
-  /*transition: all .2s ease-in-out 0s !important;*/ }
+  transition: all .2s ease-in-out 0s !important; }
   .feature-item:hover {
     transform: translateY(-13px); }
 
