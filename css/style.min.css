@@ -27,9 +27,9 @@ h6,
   font-family: 'Audiowide';
   margin-top: 0; }
 
-a {
+/*a {
   color: #0299BF;
-  transition: all .3s ease-in-out; }
+  transition: all .3s ease-in-out; }*/
 
 a:focus,
 button:focus {
@@ -155,14 +155,14 @@ section {
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #013340, #0299BF);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
-  /*.overlay.bg-white {
+  .overlay.bg-white {
     color: #000; }
     .overlay.bg-white:before {
       background: #fff;
       opacity: .7; }
 
 .text-white {
-  color: #fff; }*/
+  color: #fff; }
 
 /*==============================
 =            BUTTON            =
