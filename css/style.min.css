@@ -27,9 +27,9 @@ h6,
   font-family: 'Audiowide';
   margin-top: 0; }
 
-/*a {
+a {
   color: #0299BF;
-  transition: all .3s ease-in-out; }*/
+  transition: all .3s ease-in-out; }
 
 a:focus,
 button:focus {
